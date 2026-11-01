@@ -1,4 +1,4 @@
-#FPGA-Based Home Security Door Lock
+FPGA-Based Home Security Door Lock
 
 Project Overview
 
